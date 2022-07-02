@@ -34,7 +34,7 @@ Project:
 
 ## Socials
 <p align="center" style="margin : 0; padding-top:0;">
-<a href= "https://www.linkedin.com/andreea-daniela-burada">
+<a href= "https://www.linkedin.com/in/andreea-daniela-burada">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
