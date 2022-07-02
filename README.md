@@ -25,7 +25,7 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 
 #### Windows Applications Programming
 
-<p align="right">
+<p align="right" style="margin-bottom:0;">
 Project:
 </p>
 <p align="right">
@@ -33,7 +33,7 @@ Project:
 </p>
 
 ## Socials
-<p align="center">
+<p align="center" style="margin : 0; padding-top:0;">
 <a href= "https://www.linkedin.com/in/andreea-daniela-burada">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
