@@ -5,7 +5,7 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 ---
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreea-burada&layout=compact&hide_border=true&hide_title=true&theme=vue-dark&bg_color=0D1117)](https://github.com/andreea-burada/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreea-burada&layout=compact&hide_border=true&hide_title=true&theme=vue-dark&bg_color=161A22)](https://github.com/andreea-burada/github-readme-stats)
 
 ---
 
