@@ -4,8 +4,11 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 
 ---
 
-## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreea-burada&layout=compact&hide_border=true&hide_title=true&theme=vue-dark&bg_color=161A22)](https://github.com/andreea-burada/github-readme-stats)
+### Top Languages
+<p align="left"> 
+&emsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreea-burada&layout=compact&hide_border=true&hide_title=true&theme=vue-dark&bg_color=0d1117"/>
+</p>
 
 ---
 
@@ -27,25 +30,32 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 
 #### Windows Applications Programming
 
-<p align="right" style="margin-bottom:0;">
-Project:
+<p align="left" style="margin-bottom:0;">
+<code>Project:</code>
+<br>
+&emsp; <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
-<p align="right">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<p align="left" style="margin-bottom:0;">
+<code>Seminars:</code>
+<br>
+&emsp; <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
 ---
 
 ## Socials
-<p align="center" style="margin : 0; padding-top:0;">
+<p align="left">
+&emsp;
 <a href= "https://www.linkedin.com/in/andreea-daniela-burada">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg"/>
 </a>
-</p>
-
-<p align="center">
+&ensp;
 <a href="mailto:burada.andreea@outlook.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+<img src="https://github.com/andreea-burada/andreea-burada/blob/main/img/732095-modified.png" width="25" height="25"/>
+</a>
+&ensp;
+<a href="https://twitter.com/burada_a">
+<img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg"/>
 </a>
 </p>
 
