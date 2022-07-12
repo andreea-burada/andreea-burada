@@ -1,4 +1,4 @@
-## Welcome! 👋
+<h2 align="center"> Welcome! 👋 </h2>
 <p align="justify">My name is Andreea and I am extremely passionate about anything tech related. 
 More specifically, <i>Cybersecurity</i> is the subject of my most interest, hence why I am pursuing a career which allows me to fight the bad guys whilst protecting the good ones</p>
 
@@ -11,7 +11,7 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 </p>
 
 ---
-
+<!--
 ## University Related Repos
 
 ### 1st Year
@@ -42,8 +42,9 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 </p>
 
 ---
+--!>
 
-## Socials
+<h2> Socials </h2>
 <p align="left">
 &emsp;
 <a href= "https://www.linkedin.com/in/andreea-daniela-burada">
