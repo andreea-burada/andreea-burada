@@ -54,10 +54,6 @@ More specifically, <i>Cybersecurity</i> is the subject of my most interest, henc
 <a href="mailto:burada.andreea@outlook.com">
 <img src="https://github.com/andreea-burada/andreea-burada/blob/main/img/732095-modified.png" width="25" height="25"/>
 </a>
-&ensp;
-<a href="https://twitter.com/burada_a">
-<img src="https://github.com/codeSTACKr/codeSTACKr/blob/master/img/twitter-dark.svg"/>
-</a>
 </p>
 
 
